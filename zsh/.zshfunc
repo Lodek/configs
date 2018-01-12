@@ -1,0 +1,19 @@
+	epub_freedom(){
+	ebook-convert "$*" out.pdf --paper-size=a4 --pdf-sans-family="Adobe Garamond Pro" --pdf-mono-family="Adobe Garamond Pro" --pdf-default-font-size=18 --override-profile-size --pdf-serif-family="Adobe Garamond Pro" --pdf-standard-font=serif --pdf-mono-font-size=16  --base-font-size=15 --line-height=3 --minimum-line-height=200 --margin-top=50 --margin-left=50 --margin-right=50 --margin-bottom=50 --insert-blank-line --insert-blank-line-size=2
+	}
+
+
+	flash_ard_df()
+	{
+	    sudo dfu-programmer atmega16u2 erase
+	    sudo dfu-programmer atmega16u2 flash --debug 1 ~/bin/Arduino-usbserial-uno.hex
+	    sudo dfu-programmer atmega16u2 reset
+	}
+
+	flash_ard_kb()
+	{
+	    sudo dfu-programmer atmega16u2 erase
+	    sudo dfu-programmer atmega16u2 flash --debug 1 ~/bin/Arduino-keyboard-0.3.hex
+	    sudo dfu-programmer atmega16u2 reset    
+	}    
+

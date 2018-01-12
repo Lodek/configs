@@ -1,0 +1,38 @@
+##################################################
+#global aliases
+##################################################
+
+alias -g less='less -R'
+alias -g tree='tree -C'
+alias -g ls='ls --color'
+alias -g grep='grep --color=auto'
+
+## pipe aliases
+alias -g pl=' | less'
+alias -g pg=' | grep'
+
+##################################################
+#ls aliases
+##################################################
+
+alias ll='ls -lAh'
+alias l='ls -lh' 
+alias sll='ll | less -R'
+
+##################################################
+#grep aliases
+##################################################
+
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
+##################################################
+# emacs aliases
+##################################################
+alias tmacs='emacs -nw'
+alias owd='emacs -q -nw .'
+
+##################################################
+
+alias stree='tree | less'
+#alias alohomora='gnome-open'
