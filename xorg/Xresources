@@ -28,6 +28,8 @@ URxvt.cursorBlink: True
 URxvt.cursorUnderline: True
 URxvt.pointerBlank: False
 
+ URxvt.perl-ext-common: resize-font
+
 URxvt.font: xft:DejaVuSansMono:size=12
 
 
