@@ -6,3 +6,63 @@ XTerm.scaleHeight: 1.02
 XTerm.ttyModes: erase ^?
 XTerm.vt100.faceName: Liberation Mono:size=10:antialias=false
 XTerm.vt100.font: 7x13
+
+URxvt.background: #0C0F0F
+URxvt.foreground: #A7C1C9
+URxvt.cursorColor: #FF00FF
+URxvt.cursorColor2: #0C0F0F
+URxvt.reverseVideo: False
+URxvt.jumpScroll: False
+URxvt.skipScroll: True
+URxvt.scrollBar: False
+URxvt.visualBell: False
+URxvt.print-pipe: cat > $(TMPDIR=$HOME mktemp term.XXXXXX)
+URxvt.scrollTtyOutput: False
+URxvt.scrollWithBuffer: True
+URxvt.scrollTtyKeypress: True
+URxvt.saveLines: 10000
+URxvt.lineSpace: 5
+URxvt.meta8: False
+URxvt.mouseWheelScrollPage: False
+URxvt.cursorBlink: True
+URxvt.cursorUnderline: True
+URxvt.pointerBlank: False
+
+URxvt.font: xft:DejaVuSansMono:size=12
+
+
+! special
+URxvt.foreground:   #d3d0c8
+URxvt.background:   #2d2d2d
+
+! black
+URxvt.color0:       #2d2d2d
+URxvt.color8:       #747369
+
+! red
+URxvt.color1:       #f2777a
+URxvt.color9:       #f2777a
+
+! green
+URxvt.color2:       #99cc99
+URxvt.color10:      #99cc99
+
+! yellow
+URxvt.color3:       #ffcc66
+URxvt.color11:      #ffcc66
+
+! blue
+URxvt.color4:       #6699cc
+URxvt.color12:      #6699cc
+
+! magenta
+URxvt.color5:       #cc99cc
+URxvt.color13:      #cc99cc
+
+! cyan
+URxvt.color6:       #66cccc
+URxvt.color14:      #66cccc
+
+! white
+URxvt.color7:       #d3d0c8
+URxvt.color15:      #f2f0ec

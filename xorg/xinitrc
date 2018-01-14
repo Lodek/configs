@@ -1,4 +1,3 @@
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
-TERMINAL=xterm
-export TERMINAL
+export TERMINAL='rxvt-unicode'
 exec i3
