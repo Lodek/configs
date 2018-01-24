@@ -17,3 +17,15 @@
 	    sudo dfu-programmer atmega16u2 reset    
 	}    
 
+    #calls emacs on a few pre defined config files
+    rc()
+    {
+        typeset -A target
+        target[e]='~/.emacs.d/init.el'
+        target[za]="~/configs/zsh/.zshalias"
+        target[zf]="~/configs/zsh/.zshfunc"
+        target[git]="~/configs/git/gitconfig"
+        target[qt]="~/configs/qute/config.py"
+        target[i3]="~/configs/i3/config"
+        emacs -nw ${target[$*]}
+    }
