@@ -32,11 +32,16 @@ alias egrep='egrep --color=auto'
 ##################################################
 
 alias tmacs='emacs -nw'
-alias owd='emacs -q -nw .'
+alias owd='emacs -nw .'
 
+##################################################
+# HP aliases
 ##################################################
 
 alias tt='sudo !!' # TT = time turner
-
-alias stree='tree | less'
+alias avada-kedavra='shutdown now'
+alias stupefy='systemctl hybrid-sleep'
 #alias alohomora='gnome-open'
+
+##################################################
+alias stree='tree | less'
