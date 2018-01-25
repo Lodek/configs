@@ -50,6 +50,6 @@ alias zsource='source ~/.zshrc'
 ##################################################
 # xsel stuff
 ##################################################
-alias -g scp='$(xsel -po)
+alias -g mcp='$(xsel -po)
 alias -g ccp='$(xsel -bo)
 alias -g pcp='| xsel'
