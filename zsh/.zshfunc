@@ -39,8 +39,12 @@
     
     mgc()
     {
+        if [[ "$1" != "" ]]; then
+            MSG=$1
+        else
+            MSG=" commit from $(echo date | awk '{print $1" "$2" "$3" "$4" "$5}')"
+        fi
         git add .
-        DATE=$(echo date | awk '{print $1" "$2" "$3" "$4" "$5}')
-        git commit -m "commit from $DATE"
+        git commit -m $MSG
         git push
     }
