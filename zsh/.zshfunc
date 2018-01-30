@@ -42,7 +42,7 @@
         if [[ "$1" != "" ]]; then
             MSG=$1
         else
-            MSG=" commit from $(echo date | awk '{print $1" "$2" "$3" "$4" "$5}')"
+            MSG=" commit from $(date | awk '{print $1" "$2" "$3" "$4" "$5}')"
         fi
         git add .
         git commit -m $MSG
