@@ -1,4 +1,3 @@
 #!/usr/bin/zsh
-
-ln -s ~/configs/xorg/xinitrc ~/.xinitrc
-ln -s ~/configs/xorg/Xresources ~/.Xresources
+ln -sf $0:a:h/xinitrc ~/.xinitrc
+ln -sf $0:a:h/Xresources ~/.Xresources

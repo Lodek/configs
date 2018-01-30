@@ -1,3 +1,2 @@
 #!/usr/bin/zsh
-
-ln -fs ~/configs/zsh/.* ~/
+ln -fs $0:a:h/.* ~/

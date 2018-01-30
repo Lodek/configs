@@ -1,2 +1,2 @@
 #!/usr/bin/zsh
-ln -sf ~/configs/tmux/tmux.conf ~/.tmux.conf
+ln -sf $0:a:h/tmux.conf ~/.tmux.conf

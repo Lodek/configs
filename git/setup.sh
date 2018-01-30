@@ -1,2 +1,2 @@
 #!/usr/bin/zsh
-ln -fs ~/configs/git/gitconfig ~/.gitconfig
+ln -fs $0:a:h/gitconfig ~/.gitconfig
