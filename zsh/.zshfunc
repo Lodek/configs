@@ -40,7 +40,7 @@
     mgc()
     {
         if [[ "$1" != "" ]]; then
-            MSG=$1
+            MSG=$*
         else
             MSG=" commit from $(date | awk '{print $1" "$2" "$3" "$4" "$5}')"
         fi
