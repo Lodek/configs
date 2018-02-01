@@ -53,3 +53,11 @@ alias zsource='source ~/.zshrc'
 alias -g mcp='$(xsel -po)
 alias -g ccp='$(xsel -bo)
 alias -g pcp='| xsel'
+
+##################################################
+# directories alieas
+##################################################
+alias sandbox="cd ~/sandbox"
+alias pbj="cd ~/pbj"
+alias projects="cd ~/projects"
+alias rc="cd ~/configs"
