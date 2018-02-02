@@ -60,4 +60,4 @@ alias -g pcp='| xsel'
 alias sandbox="cd ~/sandbox"
 alias pbj="cd ~/pbj"
 alias projects="cd ~/projects"
-alias rc="cd ~/configs"
+alias configs="cd ~/configs"

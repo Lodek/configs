@@ -29,6 +29,7 @@
         target[qt]="~/configs/qute/config.py"
         target[qute]="~/configs/qute/config.py"
         target[i3]="~/configs/i3/config"
+        target[tl]="~/configs/treeline/treeline-config.py"
         emacs -nw ${target[$*]}
     }
 
