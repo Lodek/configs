@@ -30,6 +30,7 @@
         target[qute]="~/configs/qute/config.py"
         target[i3]="~/configs/i3/config"
         target[tl]="~/configs/treeline/treeline-config.py"
+        target[trees]="~/configs/treeline/trees.py"
         emacs -nw ${target[$*]}
     }
 
@@ -48,4 +49,11 @@
         git add .
         git commit -m $MSG
         git push
+    }
+    
+    treeline()
+    {
+        TREELINE_DIR='~/.bin/treeline'
+        workon treeline
+        python "$TREELINE_DIR/treeline/main.py" "$1"
     }
