@@ -1,0 +1,30 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: Object Relational Tutorial — SQLAlchemy 1.2 Documentation
+      url: http://docs.sqlalchemy.org/en/latest/orm/tutorial.html
+    - original-url: qute://log?level=info
+      pinned: false
+      title: log
+      url: qute://log/?level=info
+    - original-url: qute://log?level=info
+      pinned: false
+      title: log
+      url: qute://log/?level=info
+    - active: true
+      original-url: qute://log?level=info
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3925
+      title: log
+      url: qute://log/?level=info
+      zoom: 1.0

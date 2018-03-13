@@ -1,0 +1,207 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - original-url: https://duckduckgo.com/?q=python%20networkx%20interactive%20web%20plots
+      pinned: false
+      title: python networkx interactive web plots at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+networkx+interactive+web+plots&ia=qa
+    - active: true
+      original-url: https://duckduckgo.com/?q=python+networkx+interactive+web+plots&ia=qa
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 160
+      title: d3.js - Interactive labels on nodes using python and networkx - Stack
+        Overflow
+      url: https://stackoverflow.com/questions/33988130/interactive-labels-on-nodes-using-python-and-networkx
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Scatter Plot With Tooltips — Bringing Matplotlib to the Browser
+      url: http://mpld3.github.io/examples/scatter_tooltip.html
+    - pinned: false
+      title: mpld3 — Bringing Matplotlib to the Browser
+      url: http://mpld3.github.io/index.html
+    - pinned: false
+      title: Example Gallery — Bringing Matplotlib to the Browser
+      url: http://mpld3.github.io/examples/index.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1174
+      title: HTML tooltip plugin — Bringing Matplotlib to the Browser
+      url: http://mpld3.github.io/examples/html_tooltips.html
+      zoom: 1.0
+  - history:
+    - original-url: http://d3js.org/
+      pinned: false
+      title: D3.js - Data-Driven Documents
+      url: https://d3js.org/
+    - active: true
+      original-url: http://bl.ocks.org/mbostock/3231298
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Collision Detection - bl.ocks.org
+      url: https://bl.ocks.org/mbostock/3231298
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3755
+      title: Notebook
+      url: http://mpld3.github.io/_downloads/custom_plugins.html
+      zoom: 1.01171875
+  - history:
+    - original-url: http://www.matplotlib.org/
+      pinned: false
+      title: 'Matplotlib: Python plotting — Matplotlib 2.1.1 documentation'
+      url: https://matplotlib.org/
+    - pinned: false
+      title: Tutorials — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/index.html
+    - pinned: false
+      title: 'Matplotlib: Python plotting — Matplotlib 2.1.1 documentation'
+      url: https://matplotlib.org/index.html
+    - pinned: false
+      title: 'Matplotlib: Python plotting — Matplotlib 2.1.1 documentation'
+      url: https://matplotlib.org/index.html#
+    - pinned: false
+      title: Gallery — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/gallery/index.html
+    - pinned: false
+      title: The Pyplot API — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/pyplot_summary.html
+    - pinned: false
+      title: Tutorials — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/index.html
+    - pinned: false
+      title: Search — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/search.html?q=network&check_keywords=yes&area=default
+    - pinned: false
+      title: Tutorials — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/index.html
+    - pinned: false
+      title: Sample plots in Matplotlib — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
+    - pinned: false
+      title: matplotlib.pyplot.plot — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
+    - pinned: false
+      title: Tutorials — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/index.html
+    - pinned: false
+      title: The Pyplot API — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/pyplot_summary.html
+    - pinned: false
+      title: Pyplot tutorial — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+    - pinned: false
+      title: The Pyplot API — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/pyplot_summary.html
+    - pinned: false
+      title: Pyplot tutorial — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+    - pinned: false
+      title: The Pyplot API — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/pyplot_summary.html
+    - pinned: false
+      title: matplotlib.pyplot.polar — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.polar.html#matplotlib.pyplot.polar
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 207
+      title: Transoffset — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/gallery/misc/transoffset.html#sphx-glr-gallery-misc-transoffset-py
+      zoom: 1.0
+  - history:
+    - original-url: https://duckduckgo.com/?q=network%20plot%20matplotlib
+      pinned: false
+      title: network plot matplotlib at DuckDuckGo
+      url: https://duckduckgo.com/?q=network+plot+matplotlib&ia=qa
+    - original-url: https://duckduckgo.com/?q=network+plot+matplotlib&ia=qa
+      pinned: false
+      title: matplotlib - Python networks change color of nodes when using draw_network_nodes()
+        - Stack Overflow
+      url: https://stackoverflow.com/questions/24376200/python-networks-change-color-of-nodes-when-using-draw-network-nodes
+    - original-url: https://duckduckgo.com/?q=matplotlib%20scatter
+      pinned: false
+      title: matplotlib scatter at DuckDuckGo
+      url: https://duckduckgo.com/?q=matplotlib+scatter&ia=web
+    - original-url: https://duckduckgo.com/?q=matplotlib+scatter&ia=web
+      pinned: false
+      title: matplotlib.axes.Axes.scatter — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.scatter.html
+    - pinned: false
+      title: Search — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/search.html?q=scatter&check_keywords=yes&area=default
+    - pinned: false
+      title: matplotlib.pyplot.scatter — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html?highlight=scatter#matplotlib.pyplot.scatter
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Scatter plot — Matplotlib 2.1.1 documentation
+      url: https://matplotlib.org/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py
+      zoom: 1.0
+  - history:
+    - original-url: https://duckduckgo.com/?q=mpld3%20show
+      pinned: false
+      title: mpld3 show at DuckDuckGo
+      url: https://duckduckgo.com/?q=mpld3+show&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=mpld3+show&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: API documentation — Bringing Matplotlib to the Browser
+      url: https://mpld3.github.io/modules/API.html
+      zoom: 1.0
+    - pinned: false
+      title: API documentation — Bringing Matplotlib to the Browser
+      url: https://mpld3.github.io/modules/API.html#mpld3.fig_to_html
+  - history:
+    - pinned: false
+      title: mpld3 — Bringing Matplotlib to the Browser
+      url: https://mpld3.github.io/index.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1026
+      title: Quick Start Guide — Bringing Matplotlib to the Browser
+      url: https://mpld3.github.io/quickstart.html
+      zoom: 1.0
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=networkx
+      pinned: false
+      title: networkx at DuckDuckGo
+      url: https://duckduckgo.com/?q=networkx&ia=web
+    - original-url: https://duckduckgo.com/?q=networkx&ia=web
+      pinned: false
+      title: NetworkX — NetworkX
+      url: https://networkx.github.io/
+    - pinned: false
+      title: Overview — NetworkX 2.1 documentation
+      url: https://networkx.github.io/documentation/stable/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4953
+      title: Tutorial — NetworkX 2.1 documentation
+      url: https://networkx.github.io/documentation/stable/tutorial.html
+      zoom: 1.0

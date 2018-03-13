@@ -6,7 +6,7 @@
 	flash_ard_df()
 	{
 	    sudo dfu-programmer atmega16u2 erase
-	    sudo dfu-programmer atmega16u2 flash --debug 1 ~/bin/Arduino-usbserial-uno.hex
+	    sudo dfu-programmer atmega16u2 flash --debug 1 ~/pbj/keyboard/files/firmware-16u2/Arduino-usbserial-uno.hex
 	    sudo dfu-programmer atmega16u2 reset
 	}
 
@@ -53,7 +53,7 @@
     
     treeline()
     {
-        TREELINE_DIR='~/.bin/treeline'
+        TREELINE_DIR="/home/lodek/.bin/treeline"
         workon treeline
         python "$TREELINE_DIR/treeline/main.py" "$1"
     }

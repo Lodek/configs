@@ -2,6 +2,7 @@ import os
 home = os.getenv('HOME')
 trees = {}
 trees['usb'] = home+'/pbj/keyboard/usb'
+trees['avr'] = home+'/pbj/keyboard/avr'
 trees['blue'] = home+'/pbj/keyboard/bluetooth'
 trees['sand']='/home/lodek/sandbox/sand'
 trees['emacs']='/home/lodek/studies/emacs'

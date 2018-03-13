@@ -1,0 +1,71 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: learning physics at DuckDuckGo
+      url: https://duckduckgo.com/?q=learning+physics&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 831
+      title: learn physics by programming at DuckDuckGo
+      url: https://duckduckgo.com/?q=learn+physics+by+programming&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2830
+      title: www.vpython.org
+      url: http://www.vpython.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://amzn.com/B0052UKTDQ?tag=w050b-20
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 61
+      title: Just Enough Physics 1, Rhett Allain, Khandan Simmons - Amazon.com
+      url: https://www.amazon.com/dp/B0052UKTDQ/ref=cm_sw_su_dp?tag=w050b-20
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: VPython Tutorials | Intro Physics I
+      url: https://phys221.wordpress.com/vpython-tutorials/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      original-url: http://matterandinteractions.org/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Matter & Interactions | Contemporary calculus-based physics
+      url: https://matterandinteractions.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GlowScript Tutorial 1: Introduction and Vectors | Intro Physics I'
+      url: https://phys221.wordpress.com/2015/02/26/glowscript-tutorial-1-introduction-and-vectors/
+      zoom: 1.0

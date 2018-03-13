@@ -1,0 +1,59 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAABVUAAAL/AAAAAgAAABYAAAVTAAAC5gAAAAAABAAABVY=
+  tabs:
+  - history:
+    - original-url: https://duckduckgo.com/?q=python%20named%20pipe
+      pinned: false
+      title: python named pipe at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+named+pipe&ia=qa
+    - active: true
+      original-url: https://duckduckgo.com/?q=python+named+pipe&ia=qa
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4262
+      title: 'Python Advanced: Pipes in Python'
+      url: https://www.python-course.eu/pipes.php
+      zoom: 1.0
+    - pinned: false
+      title: linux - Python read named PIPE - Stack Overflow
+      url: https://stackoverflow.com/questions/39089776/python-read-named-pipe
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1994
+      title: linux - Python read named PIPE - Stack Overflow
+      url: https://stackoverflow.com/questions/39089776/python-read-named-pipe
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 2
+        y: 3239
+      title: pipe(7) - Linux manual page
+      url: http://man7.org/linux/man-pages/man7/pipe.7.html
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 2
+        y: 75
+      title: fifo(7) - Linux manual page
+      url: http://man7.org/linux/man-pages/man7/fifo.7.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 23154
+      title: 16.1. os — Miscellaneous operating system interfaces — Python 3.6.4 documentation
+      url: https://docs.python.org/3/library/os.html
+      zoom: 1.0

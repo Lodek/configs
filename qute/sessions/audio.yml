@@ -1,0 +1,143 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - original-url: https://duckduckgo.com/?q=arch%20wiki%20audio
+      pinned: false
+      title: arch wiki audio at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+wiki+audio&ia=web
+    - original-url: https://duckduckgo.com/?q=arch+wiki+post+installation
+      pinned: false
+      title: arch wiki post installation at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+wiki+post+installation&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=arch+wiki+post+installation&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: General recommendations - ArchWiki
+      url: https://wiki.archlinux.org/index.php/General_recommendations
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sound system - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Sound_system#Sound_servers
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 844
+      title: PulseAudio - ArchWiki
+      url: https://wiki.archlinux.org/index.php/PulseAudio
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: PulseAudio/Configuration - ArchWiki
+      url: https://wiki.archlinux.org/index.php/PulseAudio/Configuration
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: https://wiki.archlinux.org/index.php/ALSA
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2741
+      title: Advanced Linux Sound Architecture - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture
+      zoom: 1.0
+    - original-url: https://wiki.archlinux.org/index.php/ALSA/Troubleshooting#Microphone
+      pinned: false
+      title: Advanced Linux Sound Architecture/Troubleshooting - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture/Troubleshooting#Microphone
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=chtrt5650
+      pinned: false
+      title: chtrt5650 at DuckDuckGo
+      url: https://duckduckgo.com/?q=chtrt5650&ia=images
+    - active: true
+      original-url: https://duckduckgo.com/?q=chtrt5650&ia=images
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1193
+      title: sound - No Audio on Acer Chromebook 14 under Ubuntu 17.10 - Ask Ubuntu
+      url: https://askubuntu.com/questions/974073/no-audio-on-acer-chromebook-14-under-ubuntu-17-10
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: AUR (en) - Home
+      url: https://aur.archlinux.org/
+    - pinned: false
+      title: 'AUR (en) - Search Criteria: snd_hda_intel'
+      url: https://aur.archlinux.org/packages/?O=0&K=snd_hda_intel
+    - pinned: false
+      title: 'AUR (en) - Search Criteria: sound'
+      url: https://aur.archlinux.org/packages/?O=0&SeB=nd&K=sound&outdated=&SB=n&SO=a&PP=50&do_Search=Go
+    - pinned: false
+      title: 'AUR (en) - Search Criteria: snd_hda_intel'
+      url: https://aur.archlinux.org/packages/?O=0&SeB=nd&K=snd_hda_intel&outdated=&SB=n&SO=a&PP=50&do_Search=Go
+    - active: true
+      original-url: https://duckduckgo.com/?q=snd_hda_intel
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: snd_hda_intel at DuckDuckGo
+      url: https://duckduckgo.com/?q=snd_hda_intel&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1
+      title: '[SOLVED] snd_hda_intel no sound'
+      url: https://ubuntuforums.org/showthread.php?t=803343
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2832
+      title: Matrix:Module-hda-intel - AlsaProject
+      url: http://www.alsa-project.org/main/index.php/Matrix:Module-hda-intel
+      zoom: 1.0
+  - active: true
+    history:
+    - original-url: https://duckduckgo.com/?q=chtrt5650
+      pinned: false
+      title: chtrt5650 at DuckDuckGo
+      url: https://duckduckgo.com/?q=chtrt5650&ia=images
+    - active: true
+      original-url: https://duckduckgo.com/?q=chtrt5650&ia=images
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1215
+      title: sound - No Audio on Acer Chromebook 14 under Ubuntu 17.10 - Ask Ubuntu
+      url: https://askubuntu.com/questions/974073/no-audio-on-acer-chromebook-14-under-ubuntu-17-10
+      zoom: 1.0

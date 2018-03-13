@@ -1,0 +1,116 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAABVUAAAL/AAAAAgAAABYAAAVTAAAC5gAAAAAABAAABVY=
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 106
+      title: awareness meditatoin at DuckDuckGo
+      url: https://duckduckgo.com/?q=awareness+meditatoin&ia=web
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: reddit meditation at DuckDuckGo
+      url: https://duckduckgo.com/?q=reddit+meditation&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 768
+      title: Meditation
+      url: https://www.reddit.com/r/Meditation/
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.reddit.com/r/Meditation/comments/2ixjq7/meddits_book_recommendations/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 333
+      title: 'Meddit''s Book Recommendations : Meditation'
+      url: https://www.reddit.com/r/Meditation/comments/2ixjq7/meddits_book_recommendations/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      original-url: http://www.reddit.com/r/Meditation/wiki/faq
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5973
+      title: faq - Meditation
+      url: https://www.reddit.com/r/Meditation/wiki/faq
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.reddit.com/r/Meditation/comments/2ixjf6/meddits_online_recommendations/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Meddit''s Online Recommendations : Meditation'
+      url: https://www.reddit.com/r/Meditation/comments/2ixjf6/meddits_online_recommendations/
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.reddit.com/r/meditationpapers
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Scientific Papers on Meditation
+      url: https://www.reddit.com/r/meditationpapers/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Relaxation Response
+      url: http://www.relaxationresponse.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.huffingtonpost.com/news/meditation/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Meditation | HuffPost
+      url: https://www.huffingtonpost.com/topic/meditation
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.youtube.com/watch?v=3nwwKbM_vJc
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Mindfulness with Jon Kabat-Zinn - YouTube
+      url: https://www.youtube.com/watch?v=3nwwKbM_vJc
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://thebuddhistcentre.com/text/mindfulness-breathing
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: The Mindfulness of Breathing | The Buddhist Centre
+      url: https://thebuddhistcentre.com/text/mindfulness-breathing
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: http://www.aypsite.org/41.html
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: AYP Lesson 41 - Pranayama - Spinal Breathing
+      url: https://www.aypsite.org/41.html
+      zoom: 1.0
