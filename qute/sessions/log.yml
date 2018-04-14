@@ -29,7 +29,7 @@ windows:
       pinned: false
       scroll-pos:
         x: 0
-        y: 0
+        y: 5312
       title: 15.7. logging — Logging facility for Python — Python 2.7.14 documentation
       url: https://docs.python.org/2/library/logging.html
       zoom: 1.0
@@ -38,27 +38,33 @@ windows:
       pinned: false
       scroll-pos:
         x: 0
-        y: 3425
+        y: 2105
       title: Logging — The Hitchhiker's Guide to Python
       url: http://docs.python-guide.org/en/latest/writing/logging/
       zoom: 1.0
   - history:
+    - original-url: http://12factor.net/
+      pinned: false
+      title: The Twelve-Factor App
+      url: https://12factor.net/
     - active: true
-      original-url: http://12factor.net/
       pinned: false
       scroll-pos:
         x: 0
         y: 0
       title: The Twelve-Factor App
-      url: https://12factor.net/
+      url: https://12factor.net/logs
       zoom: 1.0
+    - pinned: false
+      title: The Twelve-Factor App
+      url: https://12factor.net/admin-processes
   - history:
     - active: true
       original-url: http://docs.python.org/howto/logging.html#logging-basic-tutorial
       pinned: false
       scroll-pos:
         x: 0
-        y: 1868
+        y: 15004
       title: Logging HOWTO — Python 3.6.4 documentation
       url: https://docs.python.org/3/howto/logging.html#logging-basic-tutorial
       zoom: 1.0
@@ -68,11 +74,12 @@ windows:
       pinned: false
       scroll-pos:
         x: 0
-        y: 0
+        y: 1169
       title: PEP 282 -- A Logging System | Python.org
       url: https://www.python.org/dev/peps/pep-0282/
       zoom: 1.0
-  - history:
+  - active: true
+    history:
     - active: true
       pinned: false
       scroll-pos:
@@ -81,56 +88,12 @@ windows:
       title: Good logging practice in Python – Fang's coding note
       url: https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
       zoom: 1.0
-  - active: true
-    history:
-    - original-url: http://docs.python.org/2/howto/logging.html#logging-basic-tutorial
-      pinned: false
-      title: Logging HOWTO — Python 2.7.14 documentation
-      url: https://docs.python.org/2/howto/logging.html#logging-basic-tutorial
-    - active: true
-      original-url: https://docs.python.org/2/howto/logging.html#logging-basic-tutorial
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 4822
-      title: Logging HOWTO — Python 3.6.4 documentation
-      url: https://docs.python.org/3.6/howto/logging.html#logging-basic-tutorial
-      zoom: 1.0
   - history:
     - active: true
       pinned: false
       scroll-pos:
         x: 0
-        y: 31831
+        y: 0
       title: Logging Cookbook — Python 3.6.4 documentation
       url: https://docs.python.org/3.6/howto/logging-cookbook.html#formatting-styles
-      zoom: 1.0
-  - history:
-    - active: true
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 925
-      title: Logging HOWTO — Python 2.7.14 documentation
-      url: https://docs.python.org/2/howto/logging.html#logging-advanced-tutorial
-      zoom: 1.0
-  - history:
-    - active: true
-      original-url: http://docs.python.org/2/howto/logging.html#logging-advanced-tutorial
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 4313
-      title: Logging HOWTO — Python 2.7.14 documentation
-      url: https://docs.python.org/2/howto/logging.html#logging-advanced-tutorial
-      zoom: 1.0
-  - history:
-    - active: true
-      original-url: http://docs.python.org/2/howto/logging-cookbook.html#logging-cookbook
-      pinned: false
-      scroll-pos:
-        x: 0
-        y: 5
-      title: Logging Cookbook — Python 2.7.14 documentation
-      url: https://docs.python.org/2/howto/logging-cookbook.html#logging-cookbook
       zoom: 1.0

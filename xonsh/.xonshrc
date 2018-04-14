@@ -1,0 +1,3 @@
+source '~/.xonfunc'
+source '~/.xonenv'
+source '~/.xonalias'

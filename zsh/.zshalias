@@ -52,7 +52,7 @@ alias zsource='source ~/.zshrc'
 ##################################################
 alias -g mcp='$(xsel -po)
 alias -g ccp='$(xsel -bo)
-alias -g pcp='| xsel'
+alias -g pcp='| xsel -bi'
 
 ##################################################
 # directories alieas

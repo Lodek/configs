@@ -1,0 +1,27 @@
+#grep 
+aliases['grep'] = 'grep --color=auto'
+
+# ls aliases
+aliases['ls'] = 'ls --color=auto'
+aliases['ll'] = 'ls -lAh'
+aliases['l'] = 'ls -lh' 
+aliases['sll'] = 'll | less -R'
+
+# emacs 
+aliases['tmacs'] = 'emacs -nw'
+aliases['owd'] = 'emacs -nw .'
+
+#tree
+aliases['less'] = 'less -R'
+aliases['tree'] = 'tree -C'
+aliases['stree'] = 'tree | less'
+
+# cd aliases
+aliases['sandbox'] = "cd ~/sandbox"
+aliases['pbj'] = "cd ~/pbj"
+aliases['projects'] = "cd ~/projects"
+aliases['configs'] = "cd ~/configs"
+aliases['..'] = 'cd ..'
+
+#utils
+aliases['xsource'] = 'source ~/.xonshrc'
