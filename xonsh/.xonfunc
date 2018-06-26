@@ -1,22 +1,8 @@
+source '~/.xondicts'
+
 def _rc(target):
     """ function to quickly edit some pre-set config files
     target expects a name that matches a key in the rcs dictionary, it then opens emacs for the target file """
-    rcs = {}
-    rcs['e'] = '~/.emacs.d/init.el'
-    rcs['za'] = '~/configs/zsh/.zshalias'
-    rcs['zf'] = '~/configs/zsh/.zshfunc'
-    rcs['z'] = '~/configs/zsh/.zshrc'
-    rcs['git'] = '~/configs/git/gitconfig'
-    rcs['qt'] = '~/configs/qute/config.py'
-    rcs['qute'] = '~/configs/qute/config.py'
-    rcs['i3'] = '~/configs/i3/config'
-    rcs['tl'] = '~/configs/treeline/treeline-config.py'
-    rcs['trees'] = '~/configs/treeline/trees.py'
-    rcs['xf'] = '~/configs/xonsh/.xonfunc'
-    rcs['xa'] = '~/configs/xonsh/.xonalias'
-    rcs['x'] = '~/configs/xonsh/.xonshrc'
-    rcs['xe'] = '~/configs/xonsh/.xonenv'
-
     command = ['emacs', '-nw']
     target = target[0]
     if target in rcs:
@@ -49,4 +35,21 @@ def _wpbj(target):
 
 aliases['wpbj'] = _wpbj
         
-    
+def _pandora():
+    $[sudo mount --bind /dev /media/extsd/pandora/dev]
+    $[sudo chroot /media/extsd/pandora /usr/bin/pianobar]
+aliases['pandora'] = _pandora
+
+def _mount_helper(command):
+    """ little helper scripts that allows quickly mounting certain pre defined devices
+    it has a dictionary with uuids as keys and target directories as values, it will scan all present block devices
+    look for a block that it knows and mount it in the specified location. """
+
+    blocks = $(lsblk -o uuid).split()[1:]
+    for block in blocks:
+        if block in devices:
+            options = devices[block]
+            mount = 'sudo mount -t {} -U {} {}'.format(*options)
+            $[@(mount)]
+
+aliases['mnth'] = _mount_helper            

@@ -1,0 +1,18 @@
+rcs = {}
+rcs['e'] = '~/.emacs.d/init.el'
+rcs['za'] = '~/configs/zsh/.zshalias'
+rcs['zf'] = '~/configs/zsh/.zshfunc'
+rcs['z'] = '~/configs/zsh/.zshrc'
+rcs['git'] = '~/configs/git/gitconfig'
+rcs['qt'] = '~/configs/qute/config.py'
+rcs['qute'] = '~/configs/qute/config.py'
+rcs['i3'] = '~/configs/i3/config'
+rcs['tl'] = '~/configs/treeline/treeline-config.py'
+rcs['trees'] = '~/configs/treeline/trees.py'
+rcs['xf'] = '~/configs/xonsh/.xonfunc'
+rcs['xa'] = '~/configs/xonsh/.xonalias'
+rcs['x'] = '~/configs/xonsh/.xonshrc'
+rcs['xe'] = '~/configs/xonsh/.xonenv'
+
+devices = {}
+devices['4CF66710F666FA1A'] = ('ntfs-3g', '4CF66710F666FA1A', '/media/exthd')
