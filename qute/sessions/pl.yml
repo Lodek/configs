@@ -1,0 +1,69 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: VHDL IDE for a GNU/linux environment - Electrical Engineering Stack Exchange
+      url: https://electronics.stackexchange.com/questions/22596/vhdl-ide-for-a-gnu-linux-environment
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: vhdl development emacs at DuckDuckGo
+      url: https://duckduckgo.com/?q=vhdl+development+emacs&atb=v118-6o_&ia=qa
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: vhdl development emacs at DuckDuckGo
+      url: https://duckduckgo.com/?q=vhdl+development+emacs&atb=v118-6o_&ia=qa
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Professional VHDL IDE? - Stack Overflow
+      url: https://stackoverflow.com/questions/2873536/professional-vhdl-ide
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'EmacsWiki: Vhdl Mode'
+      url: https://www.emacswiki.org/emacs/VhdlMode
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Emacs for hdl design - Community Forums
+      url: https://forums.xilinx.com/t5/Design-Entry/Emacs-for-hdl-design/td-p/60040
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Want to program FPGA''s on Emacs. : emacs'
+      url: https://www.reddit.com/r/emacs/comments/2ttcvg/want_to_program_fpgas_on_emacs/?st=jkmwwmji&sh=bdeb754a
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: VHDL IDE for a GNU/linux environment - Electrical Engineering Stack Exchange
+      url: https://electronics.stackexchange.com/questions/22596/vhdl-ide-for-a-gnu-linux-environment
+      zoom: 1.0

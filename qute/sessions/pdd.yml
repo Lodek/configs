@@ -1,0 +1,101 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: 3 Exemplos de Fundamentação Teórica para o Seu TCC
+      url: http://www.comomontartcc.com.br/referencial-teorico-de-tcc/3-exemplos-de-fundamentacao-teorica-para-usar-no-seu-tcc/
+    - pinned: false
+      title: bus at DuckDuckGo
+      url: https://duckduckgo.com/?q=bus&ia=web
+    - original-url: https://duckduckgo.com/?q=bus&ia=web
+      pinned: false
+      title: Bus - Wikipedia
+      url: https://en.wikipedia.org/wiki/Bus
+    - pinned: false
+      title: Bus (disambiguation) - Wikipedia
+      url: https://en.wikipedia.org/wiki/Bus_(disambiguation)
+    - pinned: false
+      title: Bus (computing) - Wikipedia
+      url: https://en.wikipedia.org/wiki/Bus_(computing)
+    - pinned: false
+      title: plural bus at DuckDuckGo
+      url: https://duckduckgo.com/?q=plural+bus&ia=web
+    - pinned: false
+      title: Buses vs. Busses | Merriam-Webster
+      url: https://www.merriam-webster.com/words-at-play/plural-of-bus
+    - original-url: https://www.merriam-webster.com/words-at-play/plural-of-bus
+      pinned: false
+      title: Buble - Definition and More from the Free Merriam-Webster Dictionary
+      url: https://www.merriam-webster.com/dictionary/buble
+    - original-url: https://www.merriam-webster.com/dictionary/buble
+      pinned: false
+      title: Synthatic - Definition and More from the Free Merriam-Webster Dictionary
+      url: https://www.merriam-webster.com/dictionary/synthatic
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 800
+      title: Syntaxic | Definition of Syntaxic by Merriam-Webster
+      url: https://www.merriam-webster.com/dictionary/syntaxic
+      zoom: 1.0
+    - original-url: https://www.merriam-webster.com/dictionary/syntaxic
+      pinned: false
+      title: Syntaxicsyntex - Definition and More from the Free Merriam-Webster Dictionary
+      url: https://www.merriam-webster.com/dictionary/syntaxicsyntex
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: python error at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+error&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2964
+      title: 6. Built-in Exceptions — Python 2.7.15 documentation
+      url: https://docs.python.org/2/library/exceptions.html
+      zoom: 1.0
+    - pinned: false
+      title: Search — Python 2.7.15 documentation
+      url: https://docs.python.org/2/search.html?q=runtime+error&check_keywords=yes&area=default
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3425
+      title: 8. Errors and Exceptions — Python 2.7.15 documentation
+      url: https://docs.python.org/2/tutorial/errors.html#tut-userexceptions
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: syntaxic sugar at DuckDuckGo
+      url: https://duckduckgo.com/?q=syntaxic+sugar&ia=web
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 252
+      title: python unhashable objects at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+unhashable+objects&ia=qa
+      zoom: 1.0
+    - original-url: https://duckduckgo.com/?q=python+unhashable+objects&ia=qa
+      pinned: false
+      title: 'python - TypeError : Unhashable type - Stack Overflow'
+      url: https://stackoverflow.com/questions/6754102/typeerror-unhashable-type

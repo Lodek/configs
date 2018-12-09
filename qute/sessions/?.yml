@@ -1,0 +1,100 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Guide to Research Paper Structure
+      url: http://essay-structure.com/research-paper-structure/
+      zoom: 1.25
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2945
+      title: Research proposal structure - OWLL - Massey University
+      url: http://owll.massey.ac.nz/assignment-types/research-proposal-structure.php
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Attention Required! | Cloudflare
+      url: https://www.aopa.org/news-and-media/all-news/2016/december/flight-training-magazine/career-pilot-checklist
+    - active: true
+      original-url: https://www.aopa.org/cdn-cgi/l/chk_captcha?id=47cf8883fc824a18&g-recaptcha-response=03ADlfD18iQX1JSDe7wODxRqPSDFNdIV8v9nouKnV_A1GXAVuQMZc70kJ0G263HXg08NGU4hA19JNJ1x-oN49FMioC6Njb7vKBFm3WFnwGLMGFkJ0ifg3L6sfYTHNVgvDCA6f0xrhyGN3hat52-cgEdXJryLgERCYKOOxodcK_5rG22W8olXXc4zMKof1gwSG-HLwRK91LZLHK2kT16nj-goqjh612wOLEd9WtywCoSL8iBumdDbhF9XqwEKqcc8IsqhNQaq7acLeDq7Ao24I_8VT_FZI447VWHw
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 32
+      title: 'Career Pilot: Checklists and discipline - AOPA'
+      url: https://www.aopa.org/news-and-media/all-news/2016/december/flight-training-magazine/career-pilot-checklist
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Checked, Set, Roger
+      url: http://www.askthepilot.com/checklists/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 300
+      title: organize todo at DuckDuckGo
+      url: https://duckduckgo.com/?q=organize+todo&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to Improve Your To-Do List | Real Simple
+      url: https://www.realsimple.com/home-organizing/organizing/to-do-list
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 387
+      title: 3 Better Ways to Organize Your To-Do List at Work - The Muse
+      url: https://www.themuse.com/advice/3-better-ways-to-organize-your-todo-list
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Back to Basics: How to Simplify Your To-Do List and Make It Useful Again'
+      url: https://lifehacker.com/5954123/back-to-basics-how-to-simplify-your-to-do-list-and-make-it-useful-again
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Organize a To Do List That Perfect For You
+      url: https://www.thespruce.com/organizing-a-to-do-list-2648011
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'How to Be More Productive: The Right Way to Create a To-Do List | Greatist'
+      url: https://greatist.com/happiness/make-a-to-do-list-get-shit-done
+      zoom: 1.0

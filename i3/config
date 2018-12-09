@@ -161,7 +161,5 @@ bindsym $mod+Shift+e exit
 
 #Dropdown terminal
 #Filthy xfce4-term
-exec --no-startup-id xfce4-terminal -T 'dropdown' --drop-down
-for_window [title="dropdown"] move to scratchpad
-bindsym $mod+Shift+Return scratchpad show
+exec --no-startup-id keynav daemon
 

@@ -1,0 +1,109 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: tcc latex at DuckDuckGo
+      url: https://duckduckgo.com/?q=tcc+latex&ia=web
+    - pinned: false
+      title: latex templates at DuckDuckGo
+      url: https://duckduckgo.com/?q=latex+templates&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 254
+      title: latex classes at DuckDuckGo
+      url: https://duckduckgo.com/?q=latex+classes&ia=qa
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 239
+      title: document classes - What are the available "documentclass" types and their
+        uses? - TeX - LaTeX Stack Exchange
+      url: https://tex.stackexchange.com/questions/782/what-are-the-available-documentclass-types-and-their-uses
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3695
+      title: LaTeX/Document Structure - Wikibooks, open books for an open world
+      url: https://en.wikibooks.org/wiki/LaTeX/Document_Structure
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: latex report class at DuckDuckGo
+      url: https://duckduckgo.com/?q=latex+report+class&ia=qa
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3616
+      title: 'How to Write a Thesis in LaTeX (Part 1): Basic Structure - Overleaf,
+        Online LaTeX Editor'
+      url: https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: PorOndeComecar · abntex/abntex2 Wiki · GitHub
+      url: https://github.com/abntex/abntex2/wiki/PorOndeComecar
+    - pinned: false
+      title: abntex (Software) at DuckDuckGo
+      url: https://duckduckgo.com/?q=abntex&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=abntex&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 396
+      title: abnTeX by abntex
+      url: https://www.abntex.net.br/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: ABNT - Associação Brasileira de Normas Técnicas
+      url: http://abnt.org.br/
+    - pinned: false
+      title: ABNT - Pesquise por normas, cursos e publicações ABNT
+      url: http://abnt.org.br/pesquisas/?searchword=abnt+nbr+10520&x=0&y=0
+    - pinned: false
+      title: ABNT - Pesquise por normas, cursos e publicações ABNT
+      url: http://abnt.org.br/pesquisas/?searchword=abnt+nbr+10520&x=0&y=0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: abnt nbr 10520 at DuckDuckGo
+      url: https://duckduckgo.com/?q=abnt+nbr+10520&ia=web
+      zoom: 1.0
+    - original-url: https://duckduckgo.com/?q=abnt+nbr+10520&ia=web
+      pinned: false
+      title: ABNT NBR 10520 Citações em documentos
+      url: https://www.scribd.com/doc/16893401/ABNT-NBR-10520-Citacoes-em-documentos
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dicio - Dicionário Online de Português
+      url: https://www.dicio.com.br/
+      zoom: 1.0

@@ -1,7 +1,9 @@
-c.backend = 'webkit'
-root_dir = '/root/tree'
-c.content.geolocation = 'ask'
-config.load_autoconfig()
-c.aliases['sd'] = 'config-source -c'
-c.aliases['sr'] = 'config-source -c ~/.config/treeline/treeline-config.py'
-config.bind('F', 'hint all tab-bg', mode='normal')
+config.source('binds.py')
+
+c.backend = 'webengine'
+c.completion.cmd_history_max_items = -1
+c.content.cache.appcache = True
+c.scrolling.bar = False
+c.scrolling.smooth = False
+c.search.ignore_case = 'smart'
+
