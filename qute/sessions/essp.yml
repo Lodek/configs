@@ -1,0 +1,50 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVYAAAACAAAA
+    FgAABVMAAALm
+  tabs:
+  - history:
+    - pinned: false
+      title: ESP8266 - NURDspace
+      url: https://nurdspace.nl/ESP8266
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 7831
+      title: ESP8266 - NURDspace
+      url: https://nurdspace.nl/ESP8266#AT_Commands
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: esp8266 baudrate at DuckDuckGo
+      url: https://duckduckgo.com/?q=esp8266+baudrate&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: esp8266 at command set ip at DuckDuckGo
+      url: https://duckduckgo.com/?q=esp8266+at+command+set+ip&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 8163
+      title: ESP8266 AT Commands (AT Instruction Set) - Electronics Hub
+      url: https://www.electronicshub.org/esp8266-at-commands/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2331
+      title: arduino nano - How to change baudrate of ESP8266 (12e) permanently? -
+        Arduino Stack Exchange
+      url: https://arduino.stackexchange.com/questions/24156/how-to-change-baudrate-of-esp8266-12e-permanently
+      zoom: 1.0

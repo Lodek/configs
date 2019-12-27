@@ -1,0 +1,90 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVYAAAACAAAA
+    FgAABVMAAALm
+  tabs:
+  - history:
+    - pinned: false
+      title: archwiki docker at DuckDuckGo
+      url: https://duckduckgo.com/?q=archwiki+docker&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=archwiki+docker&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 4601
+      title: Docker - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Docker
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: archlinux-docker/README.md at master · archlinux/archlinux-docker · GitHub
+      url: https://github.com/archlinux/archlinux-docker/blob/master/README.md
+    - pinned: false
+      title: 'GitHub - archlinux/archlinux-docker: Docker Base Image for Arch Linux'
+      url: https://github.com/archlinux/archlinux-docker
+    - active: true
+      original-url: https://github.com/archlinux/archlinux-docker
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 164
+      title: archlinux-docker/Dockerfile at master · archlinux/archlinux-docker ·
+        GitHub
+      url: https://github.com/archlinux/archlinux-docker/blob/master/Dockerfile
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Docker security | Docker Documentation
+      url: https://docs.docker.com/engine/security/security/
+    - pinned: false
+      title: 'Get Started, Part 1: Orientation and setup | Docker Documentation'
+      url: https://docs.docker.com/get-started/
+    - pinned: false
+      title: 'Get Started, Part 2: Containers | Docker Documentation'
+      url: https://docs.docker.com/get-started/part2/
+    - pinned: false
+      title: 'Get Started, Part 3: Services | Docker Documentation'
+      url: https://docs.docker.com/get-started/part3/
+    - pinned: false
+      title: 'Get Started, Part 4: Swarms | Docker Documentation'
+      url: https://docs.docker.com/get-started/part4/
+    - original-url: https://docs.docker.com/get-started/part5
+      pinned: false
+      title: 'Get Started, Part 5: Stacks | Docker Documentation'
+      url: https://docs.docker.com/get-started/part5/
+    - pinned: false
+      title: Develop with Docker | Docker Documentation
+      url: https://docs.docker.com/develop/
+    - pinned: false
+      title: Best practices for writing Dockerfiles | Docker Documentation
+      url: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+    - pinned: false
+      title: Create a base image | Docker Documentation
+      url: https://docs.docker.com/develop/develop-images/baseimages/
+    - pinned: false
+      title: 'Get Started, Part 1: Orientation and setup | Docker Documentation'
+      url: https://docs.docker.com/get-started/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 5093
+      title: 'Get Started, Part 2: Containers | Docker Documentation'
+      url: https://docs.docker.com/get-started/part2/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: docker playground at DuckDuckGo
+      url: https://duckduckgo.com/?q=docker+playground&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=docker+playground&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Play with Docker
+      url: https://labs.play-with-docker.com/
+      zoom: 1.0

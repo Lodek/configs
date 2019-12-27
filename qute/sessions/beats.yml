@@ -1,0 +1,140 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: pic16f877a components at DuckDuckGo
+      url: https://duckduckgo.com/?q=pic16f877a+components&ia=web
+    - original-url: https://duckduckgo.com/?q=pic16f877a+components&ia=web
+      pinned: false
+      title: 'PIC16F877A: Introduction, Pin Diagram, Pin Description, Features & Datasheet'
+      url: https://components101.com/pic16f877a-pin-diagram-description-features-datasheet
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1170
+      title: binaural beats at DuckDuckGo
+      url: https://duckduckgo.com/?q=binaural+beats&ia=web
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Beat (acoustics) - Wikipedia
+      url: https://en.wikipedia.org/wiki/Beat_(acoustics)#Binaural_beats
+    - pinned: false
+      title: Beat (acoustics) - Wikipedia
+      url: https://en.wikipedia.org/wiki/Beat_(acoustics)#cite_note-oster-6
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 574
+      title: monaural beats at DuckDuckGo
+      url: https://duckduckgo.com/?q=monaural+beats&ia=web
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Monaural Beats | Deep Brainwave Stimulation
+      url: https://www.mind-expanding-techniques.net/monaural-beats.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 958
+      title: Monaural Beats | Deep Brainwave Stimulation
+      url: https://www.mind-expanding-techniques.net/monaural-beats.html
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: www.scientificamerican.com
+      url: https://www.scientificamerican.com/article/auditory-beats-in-the-brain/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: scientific american auditory beats in the brain at DuckDuckGo
+      url: https://duckduckgo.com/?q=scientific+american+auditory+beats+in+the+brain&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1233
+      title: 'Binaural beats therapy: Benefits and how they work'
+      url: https://www.medicalnewstoday.com/articles/320019.php
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2160
+      title: How Do Binaural Beats Work?
+      url: https://www.binauralbeatsmeditation.com/the-science/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: binaural beats site:skeptoid.com at DuckDuckGo
+      url: https://duckduckgo.com/?q=binaural+beats+site%3Askeptoid.com&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 120
+      title: Brain Health With Binaural Beats
+      url: https://www.healthline.com/health-news/your-brain-on-binaural-beats
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: isochronic tones at DuckDuckGo
+      url: https://duckduckgo.com/?q=isochronic+tones&ia=about
+    - active: true
+      original-url: https://duckduckgo.com/?q=isochronic+tones&ia=about
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Isochronic tones - Wikipedia
+      url: https://en.wikipedia.org/wiki/Isochronic_tones
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Brainwave entrainment - Wikipedia
+      url: https://en.wikipedia.org/wiki/Brainwave_entrainment
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 263
+      title: auditory beats in the brain at DuckDuckGo
+      url: https://duckduckgo.com/?q=auditory+beats+in+the+brain&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dr Gerald Oster - Auditory Beats In The Brain
+      url: https://www.binauralbeatsmeditation.com/dr-gerald-oster-auditory-beats-in-the-brain/
+      zoom: 1.0

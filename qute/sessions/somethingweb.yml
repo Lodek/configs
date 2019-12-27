@@ -1,0 +1,150 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVYAAAACAAAA
+    FgAABVMAAALm
+  tabs:
+  - history:
+    - pinned: false
+      title: Arch Linux ARM
+      url: https://archlinuxarm.org/
+    - pinned: false
+      title: Raspberry Pi 2 | Arch Linux ARM
+      url: https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
+    - pinned: false
+      title: Raspberry Pi 3 | Arch Linux ARM
+      url: https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
+    - pinned: false
+      title: wifi module at DuckDuckGo
+      url: https://duckduckgo.com/?q=wifi+module&ia=web
+    - pinned: false
+      title: wireless module at DuckDuckGo
+      url: https://duckduckgo.com/?q=wireless+module&ia=web
+    - pinned: false
+      title: wireless module arduino at DuckDuckGo
+      url: https://duckduckgo.com/?q=wireless+module+arduino&ia=web
+    - pinned: false
+      title: wifi module arduino at DuckDuckGo
+      url: https://duckduckgo.com/?q=wifi+module+arduino&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: python web server at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+web+server&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: HOWTO Use Python in the web — Python 2.7.16 documentation
+      url: https://docs.python.org/2/howto/webservers.html
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Python Web Servers: Comparison of Python Frameworks for Web Apps | DigitalOcean'
+      url: https://www.digitalocean.com/community/tutorials/a-comparison-of-web-servers-for-python-based-web-applications
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: What Is Your Definition of Software Architecture
+      url: https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=513807
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: 'Python Simple HTTP Server : A Simple HTTP Web Server With Python'
+      url: https://www.simplifiedpython.net/python-simple-http-server/
+    - pinned: false
+      title: python http at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+http&ia=web
+    - original-url: https://duckduckgo.com/?q=python+http&ia=web
+      pinned: false
+      title: 21.11. http — HTTP modules — Python 3.5.7 documentation
+      url: https://docs.python.org/3.5/library/http.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 21.22. http.server — HTTP servers — Python 3.5.7 documentation
+      url: https://docs.python.org/3.5/library/http.server.html#module-http.server
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Simple Python HTTP(S) Server With GET/POST Examples · AnvilEight Blog
+      url: https://blog.anvileight.com/posts/simple-python-http-server/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Apache HTTP Server - Full Stack Python
+      url: https://www.fullstackpython.com/apache-http-server.html
+    - pinned: false
+      title: Table of Contents for Full Stack Python
+      url: https://www.fullstackpython.com/table-of-contents.html
+    - pinned: false
+      title: Full Stack Python
+      url: https://www.fullstackpython.com/
+    - pinned: false
+      title: Table of Contents for Full Stack Python
+      url: https://www.fullstackpython.com/table-of-contents.html
+    - pinned: false
+      title: Full Stack Python
+      url: https://www.fullstackpython.com/
+    - pinned: false
+      title: Table of Contents for Full Stack Python
+      url: https://www.fullstackpython.com/table-of-contents.html
+    - pinned: false
+      title: Python Programming Language - Full Stack Python
+      url: https://www.fullstackpython.com/python-programming-language.html
+    - pinned: false
+      title: Best Python Resources - Full Stack Python
+      url: https://www.fullstackpython.com/best-python-resources.html
+    - pinned: false
+      title: Why Use Python? - Full Stack Python
+      url: https://www.fullstackpython.com/why-use-python.html
+    - pinned: false
+      title: Python Programming Language - Full Stack Python
+      url: https://www.fullstackpython.com/python-programming-language.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 636
+      title: DevOps - Full Stack Python
+      url: https://www.fullstackpython.com/devops.html
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Table of Contents for Full Stack Python
+      url: https://www.fullstackpython.com/table-of-contents.html
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: How To Set Up an Apache, MySQL, and Python (LAMP) Server Without Frameworks
+        on Ubuntu 14.04 | DigitalOcean
+      url: https://www.digitalocean.com/community/tutorials/how-to-set-up-an-apache-mysql-and-python-lamp-server-without-frameworks-on-ubuntu-14-04
+      zoom: 1.0

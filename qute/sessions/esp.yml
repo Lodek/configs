@@ -1,0 +1,70 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVYAAAACAAAA
+    FgAABVMAAALm
+  tabs:
+  - history:
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWMODE
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#ATE
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+GMR
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWSAP
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWMODE
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CIPSTART
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWQAP
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWLAP
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CIPMUX
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CWMODE
+    - pinned: false
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CIPMODE
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 16276
+      title: ESP8266 - AT Command Reference · room-15
+      url: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#AT+CIPSTA
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ESP8266 AT Commands (AT Instruction Set) - Electronics Hub
+      url: https://www.electronicshub.org/esp8266-at-commands/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1234
+      title: 'Arduino WiFi: Using ESP8266 with AT Commands | Microcontroller Tutorials'
+      url: https://www.teachmemicro.com/arduino-wifi-using-esp8266-commands/
+      zoom: 1.0

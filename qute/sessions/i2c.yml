@@ -1,0 +1,84 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: i2c protocol at DuckDuckGo
+      url: https://duckduckgo.com/?q=i2c+protocol&ia=web
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 796
+      title: i2c arduino at DuckDuckGo
+      url: https://duckduckgo.com/?q=i2c+arduino&ia=web
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 7091
+      title: I2C - learn.sparkfun.com
+      url: https://learn.sparkfun.com/tutorials/i2c/all
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 8323
+      title: 'The Essential I2C Tutorial: All you need to know about I2C...'
+      url: https://www.best-microcontroller-projects.com/i2c-tutorial.html
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Arduino Playground - I2C
+      url: http://playground.arduino.cc/Learning/I2C
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 796
+      title: Arduino - Wire
+      url: https://www.arduino.cc/en/Reference/Wire
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2068
+      title: Arduino - MasterWriter
+      url: https://www.arduino.cc/en/Tutorial/MasterWriter
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2786
+      title: Arduino - MasterReader
+      url: https://www.arduino.cc/en/Tutorial/MasterReader
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: Arduino - MasterWriter
+      url: https://www.arduino.cc/en/Tutorial/MasterWriter
+    - pinned: false
+      title: Arduino - Wire
+      url: https://www.arduino.cc/en/Reference/Wire
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 80
+      title: Arduino - WireOnRequest
+      url: https://www.arduino.cc/en/Reference/WireOnRequest
+      zoom: 1.0

@@ -2,10 +2,10 @@
 #global aliases
 ##################################################
 
-alias -g less='less -R'
-alias -g tree='tree -C'
-alias -g ls='ls --color'
-alias -g grep='grep --color=auto'
+alias  less='less -R'
+alias  tree='tree -C'
+alias  ls='ls --color'
+alias  grep='grep --color=auto'
 
 
 ## pipe aliases

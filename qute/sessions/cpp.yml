@@ -1,0 +1,92 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: c++ pointer objects at DuckDuckGo
+      url: https://duckduckgo.com/?q=c%2B%2B+pointer+objects&ia=web
+    - pinned: false
+      title: c++ namespace at DuckDuckGo
+      url: https://duckduckgo.com/?q=c%2B%2B+namespace&ia=web
+    - original-url: https://duckduckgo.com/?q=c%2B%2B+namespace&ia=web
+      pinned: false
+      title: Name visibility - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/namespaces/
+    - pinned: false
+      title: Structure of a program - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/program_structure/
+    - pinned: false
+      title: Classes (I) - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/classes/
+    - pinned: false
+      title: Classes (II) - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/templates/
+    - pinned: false
+      title: Overloads and templates - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/functions2/
+    - pinned: false
+      title: Data structures - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/structures/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Name visibility - C++ Tutorials
+      url: http://www.cplusplus.com/doc/tutorial/namespaces/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1371
+      title: C++ pointer to objects - Stack Overflow
+      url: https://stackoverflow.com/questions/2988273/c-pointer-to-objects
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: c preprocessor at DuckDuckGo
+      url: https://duckduckgo.com/?q=c+preprocessor&ia=web
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: 'The C Preprocessor: Top'
+      url: https://gcc.gnu.org/onlinedocs/cpp/
+    - pinned: false
+      title: 'The C Preprocessor: Top'
+      url: https://gcc.gnu.org/onlinedocs/cpp/#SEC_Contents
+    - pinned: false
+      title: 'The C Preprocessor: Index of Directives'
+      url: https://gcc.gnu.org/onlinedocs/cpp/Index-of-Directives.html#Index-of-Directives
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'The C Preprocessor: Ifdef'
+      url: https://gcc.gnu.org/onlinedocs/cpp/Ifdef.html#Ifdef
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      title: cpp create array of objects at DuckDuckGo
+      url: https://duckduckgo.com/?q=cpp+create+array+of+objects&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=cpp+create+array+of+objects&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1213
+      title: C++ Array of Objects
+      url: http://www.tutorialdost.com/Cpp-Programming-Tutorial/34-Cpp-Class-Array.aspx
+      zoom: 1.0

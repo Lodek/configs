@@ -1,0 +1,119 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAFgAABVUAAALoAAAAAgAAABYAAAVTAAAC5gAAAAAAAAAABVY=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - original-url: http://github.com/
+      pinned: false
+      title: The world’s leading software development platform · GitHub
+      url: https://github.com/
+    - pinned: false
+      title: Sign in to GitHub · GitHub
+      url: https://github.com/login
+    - original-url: https://github.com/session
+      pinned: false
+      title: GitHub
+      url: https://github.com/
+    - pinned: false
+      title: Create a New Repository
+      url: https://github.com/new
+    - pinned: false
+      title: Lodek/chef-compiler
+      url: https://github.com/Lodek/chef-compiler
+    - pinned: false
+      title: Pull Requests · Lodek/chef-compiler
+      url: https://github.com/Lodek/chef-compiler/pulls
+    - active: true
+      original-url: https://github.com/Lodek/chef-compiler/pulls
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: Lodek/chef-compiler
+      url: https://github.com/Lodek/chef-compiler
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: analyser at DuckDuckGo
+      url: https://duckduckgo.com/?q=analyser&ia=about
+    - pinned: false
+      title: lexom at DuckDuckGo
+      url: https://duckduckgo.com/?q=lexom&ia=web
+    - pinned: false
+      title: lexoms at DuckDuckGo
+      url: https://duckduckgo.com/?q=lexoms&ia=web
+    - pinned: false
+      title: lexomico at DuckDuckGo
+      url: https://duckduckgo.com/?q=lexomico&ia=definition
+    - original-url: https://www.merriam-webster.com/dictionary/lexicon
+      pinned: false
+      title: Lexeme | Definition of Lexeme by Merriam-Webster
+      url: https://www.merriam-webster.com/dictionary/lexeme
+    - active: true
+      original-url: https://www.merriam-webster.com/dictionary/lexeme
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Lexer - Definition and More from the Free Merriam-Webster Dictionary
+      url: https://www.merriam-webster.com/dictionary/lexer
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: A Short Course in Compilers -- Lexing
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Lexing.html
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: Index -- A Short Course in Compilers
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Index.html
+    - original-url: https://www.cs.dartmouth.edu/~mckeeman/cs48
+      pinned: false
+      title: 'COSC48: Course Information'
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/
+    - pinned: false
+      title: A Short Course in Compilers
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/README.html
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 638
+      title: Lectures -- A Short Course in Compilers
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Lectures.html
+      zoom: 1.0
+    - pinned: false
+      title: A Short Course in Compilers -- Parsing
+      url: https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Parsing.html
+  - history: []
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Anatomy of a Compiler and The Tokenizer
+      url: http://www.cs.man.ac.uk/~pjj/farrell/comp3.html
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: python rege at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+rege&ia=web
+    - active: true
+      original-url: https://duckduckgo.com/?q=python+rege&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 3135
+      title: re — Regular expression operations — Python 3.7.2rc1 documentation
+      url: https://docs.python.org/3/library/re.html
+      zoom: 1.0
