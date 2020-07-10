@@ -30,7 +30,7 @@ URxvt.pointerBlank: False
 
  URxvt.perl-ext-common: resize-font
 
-URxvt.font: xft:DejaVuSansMono:size=12
+URxvt.font: xft:JetBrainsMono:size=13
 
 
 ! special
