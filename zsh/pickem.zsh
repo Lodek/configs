@@ -1,4 +1,3 @@
-
 function pickem-shell() {
     pickem-from-file ~/.pickem/shell.yml
 }

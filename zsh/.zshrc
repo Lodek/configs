@@ -2,6 +2,7 @@ source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
 
 source ~/.local/share/pickem/core.zsh
+source ~/configs/zsh/pickem.zsh
 
 source ~/.zshrc-arch
 source ~/.zshfunc
