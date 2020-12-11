@@ -1,0 +1,13 @@
+git:
+  .chord: g
+  .desc: git shortcuts
+  commit:
+    .chord: c
+  status:
+    .chord: s
+  add:
+    .chord: a
+  log:
+    .chord: l
+  merge:
+    .chord: m
