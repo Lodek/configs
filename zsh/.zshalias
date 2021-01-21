@@ -7,6 +7,7 @@ alias  tree='tree -C'
 alias  ls='ls --color'
 alias  grep='grep --color=auto'
 
+[ $(uname) = "Darwin" ] && alias ls=ls
 
 ## pipe aliases
 alias -g pl=' | less'
@@ -28,36 +29,5 @@ alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 
 ##################################################
-# emacs aliases
-##################################################
-
-alias tmacs='emacs -nw'
-alias owd='emacs -nw .'
-
-##################################################
-# HP aliases
-##################################################
-
-alias tt='sudo !!' # TT = time turner
-alias avada-kedavra='shutdown now'
-alias stupefy='systemctl hybrid-sleep'
-#alias alohomora='gnome-open'
-
-##################################################
 alias stree='tree | less'
 alias zsource='source ~/.zshrc'
-
-##################################################
-# xsel stuff
-##################################################
-alias -g mcp='$(xsel -po)
-alias -g ccp='$(xsel -bo)
-alias -g pcp='| xsel -bi'
-
-##################################################
-# directories alieas
-##################################################
-alias sandbox="cd ~/sandbox"
-alias pbj="cd ~/pbj"
-alias projects="cd ~/projects"
-alias configs="cd ~/configs"
