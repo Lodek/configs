@@ -10,3 +10,5 @@ source ~/.local/share/pickem/core.zsh
 source ~/configs/zsh/pickem.zsh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+alias lo="tmux capture-pane -p -e | vim -c 'AnsiEsc' -"
