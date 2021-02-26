@@ -8,3 +8,19 @@ keyboard layouts:
   intl:
     .chord: i
     .value: -layout us -variant intl
+
+programs:
+  .chord: p
+  .value: ""
+
+  chromium:
+    .chord: c
+    .value: chromium
+
+  discord:
+    .chord: d
+    .value: discord
+
+  telegram:
+    .chord: t
+    .value: telegram
