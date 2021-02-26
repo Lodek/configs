@@ -198,10 +198,11 @@ bindsym $mod+m mode "move"
 
 
 #################################################
-# Other stuff
+# pickem
 #################################################
+#exec --no-startup-id urxvt -name pickem-terminal
+#exec i3-msg [instance="pickem-terminal"] move scratchpad
+#bindsym $mod+b [instance="pickem-terminal"] scratchpad show
 
-
-exec --no-startup-id keynav daemon
-bindsym $mod+u exec pkill keynav && keynav daemonize
-
+bindsym $mod+comma exec urxvt -name pickem-terminal -e sh -c "pickem ~/configs/pickem/commands.yml | sh"
+for_window [class="URxvt" instance="pickem-terminal"] floating toggle

@@ -1,0 +1,10 @@
+keyboard layouts:
+  .chord: k
+  .desc: keyboard layouts
+  .value: setxkbmap
+  ansi:
+    .chord: a
+    .value: -layout us
+  intl:
+    .chord: i
+    .value: -layout us -variant intl
