@@ -23,10 +23,7 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
 
-# start dmenu (a program launcher)
-#bindsym $mod+space exec dmenu_run
-
-bindsym $mod+space exec urxvt -name fzf-terminal -e sh -c "dmenu_path | fzf | sh"
+bindsym $mod+space exec urxvt -name fzf-terminal -e zsh -c "dmenu_path | fzf | xargs -I{} i3-msg exec {}"
 for_window [class="URxvt" instance="fzf-terminal"] floating toggle
 
 # Focus with arrows
@@ -207,5 +204,5 @@ bindsym $mod+m mode "move"
 #exec i3-msg [instance="pickem-terminal"] move scratchpad
 #bindsym $mod+b [instance="pickem-terminal"] scratchpad show
 
-bindsym $mod+comma exec urxvt -name pickem-terminal -e sh -c "pickem ~/configs/pickem/commands.yml | sh"
+bindsym $mod+comma exec urxvt -name pickem-terminal -e zsh -c "pickem /home/lodek/configs/pickem/commands.yml | xargs -I{} i3-msg exec {}"
 for_window [class="URxvt" instance="pickem-terminal"] floating toggle

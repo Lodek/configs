@@ -24,3 +24,7 @@ programs:
   telegram:
     .chord: t
     .value: telegram
+
+  zathura:
+    .chord: z
+    .value: zathura
