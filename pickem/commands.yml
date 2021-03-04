@@ -34,3 +34,14 @@ journal:
   log:
     .chord: l
     .value: ~/journals/log.md
+
+notes:
+  .chord: n
+  .value: urxvt -name note-window -e vim
+  azion:
+    .chord: a
+    .value: -O ~/azion-org/*
+  tmp:
+    .chord: t
+    .value: ~/tmp/
+    
