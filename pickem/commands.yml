@@ -25,6 +25,12 @@ programs:
     .chord: t
     .value: telegram
 
-  zathura:
-    .chord: z
-    .value: zathura
+journal:
+  .chord: j
+  .value: urxvt -e vim 
+  journal:
+    .chord: j
+    .value: ~/journals/journal.md
+  log:
+    .chord: l
+    .value: ~/journals/log.md
