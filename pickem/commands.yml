@@ -12,18 +12,23 @@ keyboard layouts:
 programs:
   .chord: p
   .value: ""
-
   chromium:
     .chord: c
-    .value: chromium
-
   discord:
     .chord: d
-    .value: discord
-
   telegram:
     .chord: t
-    .value: telegram
+  arandr:
+    .chord: a
+  pavucontrol:
+    .chord: p
+  flameshot:
+    .value: flameshot gui
+    .chord: f
+  flameshot-screen:
+    .value: flameshot screen
+    .chord: F
+
 
 journal:
   .chord: j

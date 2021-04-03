@@ -4,7 +4,7 @@
 
 alias  less='less -R'
 alias  tree='tree -C'
-alias  ls='ls --color'
+alias  ls='ls --color --all'
 alias  grep='grep --color=auto'
 
 [ $(uname) = "Darwin" ] && alias ls=ls
@@ -18,7 +18,7 @@ alias -g pg=' | grep'
 ##################################################
 
 alias ll='ls -lAh'
-alias l='ls -lh' 
+alias l='ls -lAh' 
 alias sll='ll | less -R'
 
 ##################################################
