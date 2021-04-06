@@ -9,6 +9,7 @@ keyboard layouts:
     .chord: i
     .value: -layout us -variant intl
 
+
 programs:
   .chord: p
   .value: ""
@@ -22,12 +23,17 @@ programs:
     .chord: a
   pavucontrol:
     .chord: p
-  flameshot:
-    .value: flameshot gui
-    .chord: f
-  flameshot-screen:
+
+
+screenshots:
+  .chord: S
+  .value: ""
+  screen:
+    .chord: a
     .value: flameshot screen
-    .chord: F
+  flameshot:
+    .chord: p
+    .value: flameshot gui
 
 
 journal:
@@ -40,6 +46,7 @@ journal:
     .chord: l
     .value: ~/journals/log.md
 
+
 notes:
   .chord: n
   .value: urxvt -name note-window -e vim
@@ -49,4 +56,19 @@ notes:
   tmp:
     .chord: t
     .value: ~/tmp/
-    
+
+
+scripts:
+  .value: ""
+  .chord: s
+
+
+timer:
+  .value: ~/scripts/timer
+  .chord: t
+  pomodoro(25):
+    .chord: p
+    .value: 25
+  short(10):
+    .chord: s
+    .value: 10
