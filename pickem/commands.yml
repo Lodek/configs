@@ -22,7 +22,10 @@ programs:
   arandr:
     .chord: a
   pavucontrol:
+    .chord: v
+  passwords:
     .chord: p
+    .command: /home/lodek/scripts/popup-terminal-launcher zsh 
 
 
 screenshots:

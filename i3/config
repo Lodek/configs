@@ -207,5 +207,4 @@ bindsym $mod+m mode "move"
 bindsym $mod+comma exec urxvt -name pickem-terminal -e zsh -c "pickem /home/lodek/configs/pickem/commands.yml | xargs -I{} i3-msg exec {}"
 for_window [class="URxvt" instance="pickem-terminal"] floating toggle
 
-
-for_window [class="URxvt" instance="note-window"] floating toggle
+for_window [class="URxvt" instance="popup-terminal"] floating toggle
