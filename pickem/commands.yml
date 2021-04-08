@@ -25,7 +25,7 @@ programs:
     .chord: v
   passwords:
     .chord: p
-    .command: /home/lodek/scripts/popup-terminal-launcher zsh 
+    .value: urxvt -name popup-terminal -e '/home/lodek/scripts/passwords'
 
 
 screenshots:
