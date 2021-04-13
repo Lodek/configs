@@ -64,6 +64,10 @@ notes:
 scripts:
   .value: ""
   .chord: s
+  shutdown:
+    .chord: av
+    .value: shutdown now
+
 
 
 timer:
@@ -71,7 +75,7 @@ timer:
   .chord: t
   pomodoro(25):
     .chord: p
-    .value: 25
+    .value: "25"
   short(10):
     .chord: s
-    .value: 10
+    .value: "10"
