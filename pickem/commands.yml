@@ -79,3 +79,6 @@ timer:
   short(10):
     .chord: s
     .value: "10"
+  medium(15):
+    .chord: m
+    .values: '15'
