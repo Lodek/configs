@@ -1,0 +1,6 @@
+0 8-18 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "Hour's up"
+28 9 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "Daily!"
+30 11 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "11:30 study break"
+30 17 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "17:30 sorting time"
+00 17 * * 3 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "1700 Wednesday system review"
+00 17 * * 5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "Weekly review time"
