@@ -4,3 +4,4 @@
 30 17 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "17:30 sorting time"
 00 17 * * 3 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "1700 Wednesday system review"
 00 17 * * 5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "Weekly review time"
+00 12 * * 1-5 DISPLAY=:0.0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/1000/bus" notify-send "Lunch time. Check your system.

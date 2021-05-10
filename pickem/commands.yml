@@ -81,4 +81,4 @@ timer:
     .value: "10"
   medium(15):
     .chord: m
-    .values: '15'
+    .value: "15"
