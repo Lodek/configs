@@ -82,3 +82,116 @@ timer:
   medium(15):
     .chord: m
     .value: "15"
+
+mark:
+  .value: ~/configs/i3/set-mark
+  .chord: m
+  a:
+    .value: a
+  b:
+    .value: b
+  c:
+    .value: c
+  d:
+    .value: e
+  e:
+    .value: e
+  f:
+    .value: f
+  g:
+    .value: g
+  h:
+    .value: h
+  i:
+    .value: i
+  j:
+    .value: j
+  k:
+    .value: k
+  l:
+    .value: l
+  m:
+    .value: m
+  n:
+    .value: n
+  o:
+    .value: o
+  p:
+    .value: p
+  q:
+    .value: q
+  r:
+    .value: r
+  s:
+    .value: s
+  t:
+    .value: t
+  u:
+    .value: u
+  v:
+    .value: v
+  w:
+    .value: w
+  x:
+    .value: x
+  y:
+    .value: y
+  z:
+    .value: z
+
+
+goto-mark:
+  .value: ~/configs/i3/goto-mark
+  .chord: "'"
+  a:
+    .value: a
+  b:
+    .value: b
+  c:
+    .value: c
+  d:
+    .value: e
+  e:
+    .value: e
+  f:
+    .value: f
+  g:
+    .value: g
+  h:
+    .value: h
+  i:
+    .value: i
+  j:
+    .value: j
+  k:
+    .value: k
+  l:
+    .value: l
+  m:
+    .value: m
+  n:
+    .value: n
+  o:
+    .value: o
+  p:
+    .value: p
+  q:
+    .value: q
+  r:
+    .value: r
+  s:
+    .value: s
+  t:
+    .value: t
+  u:
+    .value: u
+  v:
+    .value: v
+  w:
+    .value: w
+  x:
+    .value: x
+  y:
+    .value: y
+  z:
+    .value: z
