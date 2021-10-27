@@ -1,5 +1,9 @@
 [user]
 	email = "gomes.bruno.ac@gmail.com"
 	name = Bruno Gomes
+
 [core]
 	excludesFile = ~/.gitignore
+
+[diff]
+        tool = vimdiff

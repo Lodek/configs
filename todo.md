@@ -8,5 +8,3 @@
 # Vim
 - Make ~/tmp dir for help buffers
 - Setup Jedi or LSP
-
-
