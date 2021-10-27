@@ -9,6 +9,16 @@ keyboard layouts:
     .chord: i
     .value: -layout us -variant intl
 
+monitors:
+  .chord: r
+  .value: /home/lodek/scripts/monitor-setup.sh
+  normal:
+    .chord: n
+  free:
+    .chord: f
+  presentation:
+    .chord: p
+
 
 programs:
   .chord: p
