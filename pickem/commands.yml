@@ -85,7 +85,7 @@ timer:
   .chord: t
   pomodoro(25):
     .chord: p
-    .value: "25"
+    .value: "30"
   short(10):
     .chord: s
     .value: "10"

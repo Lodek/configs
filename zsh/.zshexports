@@ -1,6 +1,7 @@
 export TERM=xterm-256color
-export PATH="$HOME/scripts:$HOME/.bin:$HOME/.local/bin:$PATH:"
-
 export FZF_DEFAULT_COMMAND="fd -H"
 
-export BOOKMAN_DIR="~/books"
+export BOOKMAN_READABLES_PATH="~/d/library/bookman/readables"
+export BOOKMAN_DB_FILE="~/d/library/bookman/bookman.pickle"
+
+export CRED_DIR="~/d/cred/"
